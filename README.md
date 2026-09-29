@@ -62,7 +62,7 @@ Create a `.env` file in the project root (next to `package.json`):
 
 ```env
 VITE_API_URL=http://localhost:5000/api
-VITE_SIMULATE_FAILURE=false
+
 ```
 
 | Variable | Description | Default / Example |
