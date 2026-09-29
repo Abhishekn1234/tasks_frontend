@@ -68,7 +68,7 @@ VITE_API_URL=http://localhost:5000/api
 | Variable | Description | Default / Example |
 | --- | --- | --- |
 | `VITE_API_URL` | Base URL of the backend API | `http://localhost:5000/api` |
-| `VITE_SIMULATE_FAILURE` | `true` makes ~50% of status updates fail randomly to demo optimistic rollback. `false` sends requests normally. | `false` |
+
 
 > Vite only reads `.env` at startup. **Restart the dev server** after changing any variable.
 
